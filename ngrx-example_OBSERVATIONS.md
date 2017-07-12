@@ -1,6 +1,6 @@
 **ngrx/store**
 
-The store will helps to solve the component interaction problems.If we
+The store will help to solve the component interaction problems.If we
 use ngrx/store in our application.There is a lot of advantages like
 perfomance boost, testability and also can make it more
 predictable.Ultimately stores will acts ike a client side database which
